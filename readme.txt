@@ -1,6 +1,7 @@
 基于Python开发的自动玩2048的小程序
 仅供学习参考请在24小时内删除
 最终解释权归Xdr4ft社区所有
+(os:950022478这是我们的一个qq群关于网络安全的加一下呗：D）
 
 所需库twentyfortyeight
 pip install twentyfortyeight
